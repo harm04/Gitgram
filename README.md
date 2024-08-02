@@ -31,15 +31,18 @@ GitGram is a Flutter application that integrates with the GitHub API to offer a 
 
    ```bash
    git clone https://github.com/yourusername/gitgram.git
+   
 2. **Navigate to the project directory:**
    ```bash
-  cd gitgram
+    cd gitgram
+  
 3. **Install dependencies:**
    ```bash
-  flutter pub get
+    flutter pub get
+  
 4. **Run the app:**
    ```bash
-  flutter run
+    flutter run
 
 
 
